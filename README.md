@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently pursuing a "bachelor of science in computer science." from TCSC Mumbai.<br>aspiring UI/UX Designer with strong interest in frontend development and interactive design.<br><br>design skills : adobe photoshop - after effects - adobe illustrator - adobe premiere pro - blender - figma - framer.<br><br>currently learning & working with : HTML - CSS - JavaScript - Node.js - React.js
+currently pursuing a "bachelor of science in computer science." from TCSC Mumbai.<br>aspiring AI engineer with strong interest in artificial intelligence and machine learning.<br><br>currently learning & working on : Python - Statistics - Machine Learning Fundamentals.
 
 
 ## 🌐 Socials:
