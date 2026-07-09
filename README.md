@@ -1,5 +1,5 @@
 # About Me:
-i'm an aspiring AI / ML engineer.<br>welcome to my github profile! i'm an undergraduate computer science student, fully dedicated to mastering Artificial Intelligence and Machine Learning.<br><br>I love building real-time applications and am deeply focused on mastering the math, algorithms, and systems engineering required to build, deploy, and scale intelligent AI applications.
+i'm an aspiring AI / ML engineer.<br>welcome to my github profile! i'm an undergraduate computer science student, fully dedicated to mastering Artificial Intelligence and Machine Learning.<br><br>i love building real-time applications and am deeply focused on mastering the math, algorithms, and systems engineering required to build, deploy, and scale intelligent AI applications.
 
 
 # Socials:
