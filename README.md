@@ -3,7 +3,7 @@ i'm an aspiring AI / ML engineer.<br>welcome to my github profile! i'm an underg
 
 
 # Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshhh_63) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laksh63dave) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davelaksh1712@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lakshdave_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laksh63dave/)
 
 # Skills:
 learning : 
