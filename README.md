@@ -1,6 +1,6 @@
 <div align="center">
 
-# hi there! 👋 i'm Laksh
+# hi there! i'm Laksh
 
 ### AI/ML engineer • UI/UX designer • interactive web developer
 
@@ -52,25 +52,25 @@ i enjoy creating intelligent applications, designing intuitive user interfaces, 
 
 <br/>
 
-## 🎯 what i'm passionate about:
+## what i'm passionate about:
 
-✨ building AI-powered applications.
-🎨 designing clean and intuitive user experiences.
-⚡ developing interactive websites with smooth animations.
-🧠 learning machine learning and deep learning.
-🚀 creating products that are both beautiful and functional.
-🌐 exploring modern frontend technologies and motion design.
+- building AI-powered applications.
+- designing clean and intuitive user experiences.
+- developing interactive websites with smooth animations.
+- learning machine learning and deep learning.
+- creating products that are both beautiful and functional.
+- exploring modern frontend technologies and motion design.
 
 <br/>
 
-## 📌 working on:
+## working on:
 
-- 🤖 artificial intelligence & machine learning.
-- 🧠 deep Llearning with PyTorch & TensorFlow.
-- 🎨 UI / UX Design & product thinking.
-- ⚡ interactive frontend development.
-- ✨ motion UI & micro-interactions.
-- 🚀 full stack AI applications.
+- artificial intelligence & machine learning.
+- deep Llearning with PyTorch & TensorFlow.
+- UI / UX Design & product thinking.
+- interactive frontend development.
+- motion UI & micro-interactions.
+- full stack AI applications.
 
 <br/>
 
@@ -88,7 +88,7 @@ i enjoy creating intelligent applications, designing intuitive user interfaces, 
 
 ---
 
-## 💡 Design Philosophy
+## Design Philosophy
 
 > *"The best products don't just solve problems—they create experiences people enjoy using."*
 I believe technology should feel effortless. My goal is to combine intelligent AI with thoughtful design, creating products that are fast, intuitive, visually appealing, and genuinely enjoyable to use.
