@@ -73,19 +73,6 @@ i enjoy creating intelligent applications, designing intuitive user interfaces, 
 - full stack AI applications.
 
 <br/>
-
-## 📈 GitHub Analytics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=laksh63dave&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=laksh63dave&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laksh63dave&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
 ---
 
 ## Design Philosophy
